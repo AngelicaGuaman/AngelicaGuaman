@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AngelicaGuaman
+- 👋 Hi, I’m Angélica
 - 👀 I’m interested in AI and programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
